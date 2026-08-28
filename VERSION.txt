@@ -1,0 +1,3 @@
+Unterrichts-Cockpit NRW
+App-Basis: V6.1
+GitHub/PWA-Paket: 1.0
